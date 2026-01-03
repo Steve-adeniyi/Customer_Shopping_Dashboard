@@ -64,4 +64,4 @@ Source # `Customer Shopping Trends Data` Contains customer level shopping transa
  + Excel - Data Source
  + Snowflake - Data Manipulation
  + PowerBI - Data analyzing and presentation
- + Google Looker Studio - Data analyzing and Presentation
+ + Google Looker Studio - Data analyzing and Presentation: https://lookerstudio.google.com/reporting/f3c8344a-d38f-4fde-a1f4-58118f77d904
